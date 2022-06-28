@@ -123,7 +123,7 @@ const Navbar = () => {
               href='/'
             >
 
-              <link rel="stylesheet" href="kensloel@gmail.com" />
+              <a href="mailto: kensloel@gmail.com"> </a>
               Email
               <HiOutlineMail size={30} />
             </a>
