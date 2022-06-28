@@ -15,6 +15,7 @@ function App() {
       <Skills />
       <Work />
       <Contact />
+      <a>Deployment is happening</a>
     </div>
   );
 }
